@@ -1,0 +1,46 @@
+#main {
+    display : block;
+    width : 50%;
+    margin: 1% auto auto auto;
+    padding: 5%;
+    border-radius : 15px;
+
+}
+
+h1, h2, h3 {
+    font-family : 'Rubik', sans-serif;
+}
+
+h4, h5, h6 {
+    font-family : 'EB Garamond', serif;
+}
+
+p {
+    font-family : 'Piazzolla', serif;
+}
+
+.link-box {
+    padding : 5%;
+    border-radius : 15px;
+}
+
+.em-box {
+    padding : 5%;
+    border-radius : 15px;
+}
+
+li {
+    font-family : 'Piazzolla', serif;
+}
+
+.breadcrumbs {
+    background-color : #F4F4F4;
+    padding : 1px 20px 1px 20px;
+    border-radius : 5px;
+    font-family : 'Rubik';
+}
+
+#breadcrumb-text {
+    font-family : 'Rubik';
+    font-size : 11pt;
+}
